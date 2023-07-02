@@ -44,7 +44,7 @@
       </ClaimType>
 
       <ClaimType Id="QrCodeVerifyInstruction">
-        <DisplayName>Enter the verification code from your authenticator app​.</DisplayName>
+        <DisplayName>Enter the verification code from your authenticator app.</DisplayName>
         <DataType>string</DataType>
         <UserInputType>Paragraph</UserInputType>
       </ClaimType>
